@@ -10,9 +10,9 @@
         }
     },
     "bin": [
-        "PFiles\\clarinet\\clarinet.exe",
+        "PFiles\\clarinet\\bin\\clarinet.exe",
         [
-            "PFiles\\clarinet\\clarinet.exe",
+            "PFiles\\clarinet\\bin\\clarinet.exe",
             "clarinet"
         ]
     ],
