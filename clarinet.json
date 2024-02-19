@@ -5,13 +5,10 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hirosystems/clarinet/releases/download/v2.2.1/clarinet-windows-x64.msi",
-            "post_install": [
-                "mv exe0 clarinet.exe"
-            ]
+            "url": "https://github.com/hirosystems/clarinet/releases/download/v2.2.1/clarinet-windows-x64.msi"
         }
     },
-    "bin": "clarinet.exe",
+    "bin": "PFiles\\clarinet\\clarinet.exe",
     "checkver": {
         "github": "https://github.com/hirosystems/clarinet",
         "regex": "/releases/tag/(v[\\d.]+)"
