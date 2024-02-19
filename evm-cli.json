@@ -1,0 +1,23 @@
+{
+    "version": "v1.0.7",
+    "description": "EVM (Ethereum Virtual Machine) blockchains command line utility.",
+    "homepage": "https://ethereum.org/developers/docs/evm",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/idanya/evm-cli/releases/download/v1.0.7/evm-cli_Windows_x86_64.zip"
+        }
+    },
+    "bin": "evm-cli.exe",
+    "checkver": {
+        "github": "https://github.com/idanya/evm-cli",
+        "regex": "/releases/tag/(v[\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/idanya/evm-cli/releases/download/$version/evm-cli_Windows_x86_64.zip"
+            }
+        }
+    }
+}
