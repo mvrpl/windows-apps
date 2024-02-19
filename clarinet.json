@@ -5,10 +5,17 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hirosystems/clarinet/releases/download/v2.2.1/clarinet-windows-x64.msi"
+            "url": "https://github.com/hirosystems/clarinet/releases/download/v2.2.1/clarinet-windows-x64.msi",
+            "hash": "12d274cab860b842ab2e2f3c3d7ae7fe047a6a43fea1c69f95fe036dd2dcaa10"
         }
     },
-    "bin": "PFiles\\clarinet\\clarinet.exe",
+    "bin": [
+        "PFiles\\clarinet\\clarinet.exe",
+        [
+            "PFiles\\clarinet\\clarinet.exe",
+            "clarinet"
+        ]
+    ],
     "checkver": {
         "github": "https://github.com/hirosystems/clarinet",
         "regex": "/releases/tag/(v[\\d.]+)"
