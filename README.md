@@ -2,9 +2,7 @@
 
 Applications not found in main or extras
 
-## Addition
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## Bucket Addition
 
 ```bash
 scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
