@@ -7,7 +7,7 @@
         "64bit": {
             "url": "https://github.com/ignite/cli/archive/refs/tags/v28.2.0.zip",
             "hash": "509a672f035e9fdc4ba7aec1239e0a979ba903449e8c8df24bfb682f5fa95727",
-            "extract_dir": "ignitecli"
+            "extract_dir": "cli-28.2.0"
         }
     },
     "installer": {
