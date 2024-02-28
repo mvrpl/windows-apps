@@ -11,7 +11,6 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 ## Applications
 
 - [x] [clarinet](https://docs.hiro.so/clarinet)
-- [ ] [ignite Cli](https://ignite.com/cli)
 
 ## Contributing
 
