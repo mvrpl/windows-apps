@@ -1,0 +1,29 @@
+{
+    "version": "v28.2.0",
+    "description": "Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain.",
+    "homepage": "https://ignite.com/cli",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ignite/cli/archive/refs/tags/v28.2.0.zip",
+            "hash": "12d274cab860b842ab2e2f3c3d7ae7fe047a6a43fea1c69f95fe036dd2dcaa10",
+            "extract_dir": "ignitecli"
+        }
+    },
+    "installer": {
+        "script": [
+          "cd $dir",
+          "make install"
+        ]
+    },
+    "post_install": [
+        "mv ~/go/bin/gen-cli-docs.exe $dir",
+        "mv ~/go/bin/ignite.exe $dir",
+        "go clean -cache -modcache"
+    ],
+    "depends": [
+        "go",
+        "make"
+    ],
+    "bin": "ignite.exe"
+}
