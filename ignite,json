@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/ignite/cli/archive/refs/tags/v28.2.0.zip",
-            "hash": "12d274cab860b842ab2e2f3c3d7ae7fe047a6a43fea1c69f95fe036dd2dcaa10",
+            "hash": "509a672f035e9fdc4ba7aec1239e0a979ba903449e8c8df24bfb682f5fa95727",
             "extract_dir": "ignitecli"
         }
     },
