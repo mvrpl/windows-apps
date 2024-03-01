@@ -17,13 +17,13 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/hirosystems/clarinet",
-        "regex": "/releases/tag/(v[\\d.]+)"
+        "url": "https://github.com/hirosystems/clarinet/releases/latest",
+        "regex": "v(?<tag>[\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/hirosystems/clarinet/releases/download/$version/clarinet-windows-x64.msi"
+                "url": "https://github.com/hirosystems/clarinet/releases/download/v$matchTag/clarinet-windows-x64.msi"
             }
         }
     }
