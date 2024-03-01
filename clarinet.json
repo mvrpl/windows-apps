@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/hirosystems/clarinet/releases/download/v2.3.0/clarinet-windows-x64.msi",
-            "hash": "12d274cab860b842ab2e2f3c3d7ae7fe047a6a43fea1c69f95fe036dd2dcaa10"
+            "hash": "fdba9381a4142f86c2e1bee73a40cc71a4914381b416ceefbf5b1c0538d9495d"
         }
     },
     "bin": [
