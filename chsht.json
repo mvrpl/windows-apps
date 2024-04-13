@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.5",
     "description": "Cheat Sheets on Terminal",
     "homepage": "https://github.com/mvrpl/Terminal-Cheat-Sheet",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/chsht/releases/0.2.0/chsht-win-amd64.exe",
-            "hash": "e05178268609eccfb76015c2f455aaaaa2a710f972646ac0bec6f33be3824145"
+            "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/chsht/releases/0.2.5/chsht-win-amd64.exe",
+            "hash": "393864e7a6a345750b38e6825cd42866a4a06881e1dd57a52fd11be7489d122f"
         }
     },
     "depends": [
