@@ -9,6 +9,9 @@
             "hash": "e05178268609eccfb76015c2f455aaaaa2a710f972646ac0bec6f33be3824145"
         }
     },
+    "depends": [
+        "less"
+    ],
     "bin": [
         [
             "chsht-win-amd64.exe",
