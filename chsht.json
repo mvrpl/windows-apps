@@ -5,13 +5,13 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mvrpl/Terminal-Cheat-Sheet/releases/download/0.2.0/Terminal-Cheat-Sheet_Windows_x86_64.zip",
-            "hash": "31596fa3500370f808d3aa6a1ca76e21a175dc4e52c99a6f1e323c853e0ff6b2"
+            "url": "https://github.com/mvrpl/Terminal-Cheat-Sheet/actions/runs/8675437761/artifacts/1411350266",
+            "hash": "f22adea1aaf31c570708c9d953380de108851abd89526145a38db840d1e3aae1"
         }
     },
     "bin": [
         [
-            "Terminal-Cheat-Sheet.exe",
+            "chsht-win-amd64.exe",
             "chsht"
         ]
     ]
