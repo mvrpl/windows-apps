@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/mvrpl/Terminal-Cheat-Sheet/releases/download/0.2.0/Terminal-Cheat-Sheet_Windows_x86_64.zip",
-            "hash": "0422f1bf87d5aea13947ec605979a3256f40f2cd6b470ce2e5ad199f65a84999"
+            "hash": "31596fa3500370f808d3aa6a1ca76e21a175dc4e52c99a6f1e323c853e0ff6b2"
         }
     },
     "bin": [
