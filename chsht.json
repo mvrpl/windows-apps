@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "description": "Cheat Sheets on Terminal",
+    "homepage": "https://github.com/mvrpl/Terminal-Cheat-Sheet",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mvrpl/Terminal-Cheat-Sheet/releases/download/0.2.0/Terminal-Cheat-Sheet_Windows_x86_64.zip",
+            "hash": "0422f1bf87d5aea13947ec605979a3256f40f2cd6b470ce2e5ad199f65a84999"
+        }
+    },
+    "bin": [
+        [
+            "Terminal-Cheat-Sheet.exe",
+            "chsht"
+        ]
+    ]
+}
