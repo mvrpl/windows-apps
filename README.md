@@ -11,6 +11,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 ## Applications
 
 - [x] [clarinet](https://docs.hiro.so/clarinet)
+- [x] [chsht](https://github.com/mvrpl/Terminal-Cheat-Sheet)
 
 ## Contributing
 
