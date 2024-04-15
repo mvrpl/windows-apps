@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/chsht/releases/$version/chsht-win-amd64.exe",
+            "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/chsht/releases/0.2.5/chsht-win-amd64.exe",
             "hash": "393864e7a6a345750b38e6825cd42866a4a06881e1dd57a52fd11be7489d122f"
         }
     },
