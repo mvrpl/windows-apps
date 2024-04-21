@@ -1,12 +1,12 @@
 {
-    "version": "v2.4.1",
+    "version": "v2.5.1",
     "description": "Clarinet is a command line tool for Clarity smart contract development.",
     "homepage": "https://docs.hiro.so/clarinet",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hirosystems/clarinet/releases/download/v2.4.1/clarinet-windows-x64.msi",
-            "hash": "db5c5b8d63654e211867158d0186ac1f33fd067a313dd71364c60b8032139f54"
+            "url": "https://github.com/hirosystems/clarinet/releases/download/v2.5.1/clarinet-windows-x64.msi",
+            "hash": "3b6fd764a9d52aab29bca9f0c9f12db1d151b0473daadff3ccc5c5f1e48f4c46"
         }
     },
     "bin": [
