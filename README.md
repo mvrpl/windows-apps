@@ -13,6 +13,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [x] [clarinet](https://docs.hiro.so/clarinet) `scoop install clarinet`
 - [x] [chsht](https://github.com/mvrpl/Terminal-Cheat-Sheet) `scoop install chsht`
 - [x] [rusync](https://github.com/your-tools/rusync) `scoop install rusync`
+- [x] [apple-pkl](https://pkl-lang.org) `scoop install apple-pkl`
 
 ## Contributing
 
