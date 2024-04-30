@@ -1,0 +1,21 @@
+{
+    "version": "0.25.3",
+    "description": "A configuration as code language with rich validation and tooling.",
+    "homepage": "https://pkl-lang.org",
+    "license": "Apache License 2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/apple-pkl/releases/0.25.3/pkl.exe",
+            "hash": "110e6bb6dd73249c0d4faf0901d11a07b9b90f9e35793579c20929345381bb82"
+        }
+    },
+    "depends": [
+        "openjdk"
+    ],
+    "bin": [
+        [
+            "pkl.exe",
+            "pkl"
+        ]
+    ]
+}
