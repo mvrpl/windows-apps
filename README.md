@@ -14,6 +14,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [x] [chsht](https://github.com/mvrpl/Terminal-Cheat-Sheet) `scoop install chsht`
 - [x] [rusync](https://github.com/your-tools/rusync) `scoop install rusync`
 - [x] [gup](https://github.com/nao1215/gup) `scoop install gup`
+- [x] [apple-pkl](https://pkl-lang.org) `scoop install apple-pkl`
 
 ## Contributing
 
