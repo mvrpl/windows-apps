@@ -17,5 +17,13 @@
             "chsht-win-amd64.exe",
             "chsht"
         ]
-    ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/chsht/releases/$version/chsht-win-amd64.exe"
+            }
+        }
+    }
 }
