@@ -14,5 +14,13 @@
             "rusync-windows.exe",
             "rusync"
         ]
-    ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/your-tools/rusync/releases/download/v$version/rusync-windows.exe"
+            }
+        }
+    }
 }
