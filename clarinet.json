@@ -16,7 +16,9 @@
             "clarinet"
         ]
     ],
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/hirosystems/clarinet"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
