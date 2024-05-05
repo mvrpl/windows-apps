@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/chsht/releases/0.3.0/chsht-win-amd64.exe",
-            "hash": "f7770c4c5ac4e5bfdc7ef2b67f40aa0b49183e24fec4e9e30ea31d464d7436fc"
+            "hash": "54b2ea774db6a3384fc797f89f45d3a241884bc58f31261443dbaadeaef73456"
         }
     },
     "depends": [
