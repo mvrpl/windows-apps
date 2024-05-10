@@ -17,7 +17,7 @@
     ],
     "bin": [
         [
-            "pkl.cmd",
+            "$dir\\pkl.cmd",
             "pkl"
         ]
     ],
