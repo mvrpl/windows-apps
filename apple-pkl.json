@@ -12,7 +12,7 @@
     "depends": [
         "openjdk"
     ],
-    "post_install": [
+    "pre_install": [
         "Set-Content -Path $dir\\pkl.cmd -Encoding ASCII -Value '@echo off', '', 'java -jar $dir\\jpkl'"
     ],
     "bin": [
