@@ -1,5 +1,5 @@
 {
-    "version": "v2.6.0",
+    "version": "2.6.0",
     "description": "Clarinet is a command line tool for Clarity smart contract development.",
     "homepage": "https://docs.hiro.so/clarinet",
     "license": "MIT",
