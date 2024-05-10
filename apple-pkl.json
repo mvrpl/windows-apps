@@ -5,16 +5,19 @@
     "license": "Apache License 2.0",
     "architecture": {
         "64bit": {
-            "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/apple-pkl/releases/0.25.3/pkl.exe",
-            "hash": "110e6bb6dd73249c0d4faf0901d11a07b9b90f9e35793579c20929345381bb82"
+            "url": "https://github.com/apple/pkl/releases/download/0.25.3/jpkl",
+            "hash": "7589c3d7c2531d0446dbdc92990a13ff96803633060c04754c96198e234fe644"
         }
     },
     "depends": [
         "openjdk"
     ],
+    "post_install": [
+        "Set-Content -Path $dir\\pkl.cmd -Encoding ASCII -Value '@echo off', '', 'java -jar '$dir'\\jpkl'"
+    ],
     "bin": [
         [
-            "pkl.exe",
+            "pkl.cmd",
             "pkl"
         ]
     ],
@@ -24,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/apple-pkl/releases/$version/pkl.exe"
+                "url": "https://github.com/apple/pkl/releases/download/$version/jpkl"
             }
         }
     }
