@@ -17,5 +17,15 @@
             "pkl.exe",
             "pkl"
         ]
-    ]
+    ],
+    "checkver": {
+        "github": "https://github.com/apple/pkl"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/apple-pkl/releases/$version/pkl.exe"
+            }
+        }
+    }
 }
