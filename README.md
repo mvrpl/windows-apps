@@ -15,6 +15,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [x] [rusync](https://github.com/your-tools/rusync) `scoop install rusync`
 - [x] [gup](https://github.com/nao1215/gup) `scoop install gup`
 - [x] [apple-pkl](https://pkl-lang.org) `scoop install apple-pkl`
+- [x] [otelcol-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) `scoop install otelcol-contrib`
 
 ## Contributing
 
