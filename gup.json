@@ -1,12 +1,12 @@
 {
-    "version": "0.26.1",
+    "version": "0.26.2",
     "description": "Update binaries installed by 'go install' with goroutines.",
     "homepage": "https://github.com/nao1215/gup",
     "license": "Apache License 2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nao1215/gup/releases/download/v0.26.1/gup_0.26.1_windows_amd64.zip",
-            "hash": "e080265ef1cd9bdab88060ef8006341430d0ac62a7222adcb9a4ca18a46be3dd"
+            "url": "https://github.com/nao1215/gup/releases/download/v0.26.2/gup_0.26.2_windows_amd64.zip",
+            "hash": "c2020fffe77ee01a0e4002613c522d20f6b048afd56379f071a855b7e25a857b"
         }
     },
     "bin": [
