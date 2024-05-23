@@ -1,0 +1,30 @@
+name: Livechecks bucket mvrpl/windows-apps
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  checkver:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set up Scoop
+        id: set-up-scoop
+        uses: MinoruSekine/setup-scoop@v4
+        with:
+          install_scoop: 'true'
+          scoop_update: 'true'
+          update_path: 'true'
+      - name: Scoop checkver Windows
+        id: scoop-windows
+        run: |
+          scoop bucket add mvrpl https://github.com/mvrpl/windows-apps &&
+          ~\scoop\apps\scoop\current\bin\checkver.ps1 -Dir ~\scoop\buckets\mvrpl -u
+          cp ~\scoop\buckets\mvrpl\*.json .
+      - name: Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
