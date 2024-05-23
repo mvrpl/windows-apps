@@ -1,3 +1,5 @@
+[![Checkver bucket mvrpl/windows-apps](https://github.com/mvrpl/windows-apps/actions/workflows/scoop_checkver.yaml/badge.svg?branch=main)](https://github.com/mvrpl/windows-apps/actions/workflows/scoop_checkver.yaml)
+
 # Scoop Bucket Manifests
 
 Applications not found in main or extras
