@@ -20,6 +20,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [x] [seaweedfs](https://github.com/seaweedfs/seaweedfs) `scoop install seaweedfs`
 - [x] [rcon](https://github.com/gorcon/rcon-cli) `scoop install rcon`
 - [x] [otelcol-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) `scoop install otelcol-contrib`
+- [x] [knative](https://github.com/knative/client) `scoop install knative`
 
 ## Contributing
 
