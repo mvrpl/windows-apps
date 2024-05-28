@@ -1,12 +1,12 @@
 {
-    "version": "1.0",
+    "version": "1.5",
     "description": "Runs your internet connection speed tests.",
     "homepage": "https://github.com/mvrpl/speed-test",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mvrpl/speed-test/releases/download/1.0/speed-test_Windows_x86_64.zip",
-            "hash": "564d87919fb7b053d4b7074dabd5374e4db20a10b2cf9ff1ff6bb716dd5ec411"
+            "url": "https://github.com/mvrpl/speed-test/releases/download/1.5/speed-test_Windows_x86_64.zip",
+            "hash": "dc055039b2aae1834d0e708723a4e5d1719180784356f848067be9437fe9d632"
         }
     },
     "bin": [
