@@ -1,0 +1,26 @@
+{
+    "version": "0.1.0",
+    "description": "ETL configurable written in Rust",
+    "homepage": "https://github.com/mvrpl/dataflow",
+    "license": "GPL-3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mvrpl/dataflow/releases/download/0.1.0/dataflow-windows-amd64.exe",
+            "hash": "de25dca848195897dfcf42944781d6c7bd56e871bc257c180cb1180d4f914e83"
+        }
+    },
+    "bin": [
+        [
+            "dataflow-windows-amd64.exe",
+            "dataflow"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/mvrpl/dataflow/releases/download/$version/dataflow-windows-amd64.exe"
+            }
+        }
+    }
+}
