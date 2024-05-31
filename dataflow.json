@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/dataflow/releases/0.2.1/dataflow-x86_64-pc-windows-msvc.zip",
-            "hash": "8e500591ca8934dbd9456f300b759c6f03eab841d29544251253462c3b3e7075"
+            "hash": "73f389cade17b5f47a8877f75ffb0709b3bb600f4f23180849dfd36dc46ef818"
         },
         "arm64": {
             "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/dataflow/releases/0.2.1/dataflow-aarch64-pc-windows-msvc.zip",
-            "hash": "3ea73d80e4026cf72028e0645f4a64e371d924e5a6c88c91bc33093176551348"
+            "hash": "f55de42775622ded8bfd68a8c9950b1bafc344badb7866b50c215c25a67d4f91"
         }
     },
     "bin": [
