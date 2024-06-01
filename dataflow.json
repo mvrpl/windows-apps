@@ -1,21 +1,19 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.6",
     "description": "ETL configurable written in Rust",
     "homepage": "https://github.com/mvrpl/dataflow",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/dataflow/releases/0.2.1/dataflow-x86_64-pc-windows-msvc.zip",
-            "hash": "73f389cade17b5f47a8877f75ffb0709b3bb600f4f23180849dfd36dc46ef818"
+            "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/dataflow/releases/0.2.6/dataflow-x86_64-pc-windows-msvc.zip",
+            "hash": "69623cda501217996bcfadcf8be574c914137c049d8403ee97595f24841a97dd"
         },
         "arm64": {
-            "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/dataflow/releases/0.2.1/dataflow-aarch64-pc-windows-msvc.zip",
-            "hash": "f55de42775622ded8bfd68a8c9950b1bafc344badb7866b50c215c25a67d4f91"
+            "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/dataflow/releases/0.2.6/dataflow-aarch64-pc-windows-msvc.zip",
+            "hash": "6298f5021812684a71eefb4a9c6849a2fa7afb1804a727d155bca3094c9b5ab6"
         }
     },
-    "bin": [
-        "dataflow.exe"
-    ],
+    "bin": "dataflow.exe",
     "checkver": "github",
     "autoupdate": {
         "architecture": {
