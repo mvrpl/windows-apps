@@ -17,7 +17,7 @@
     "checkver": {
         "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/dataflow/releases/latest.json",
         "jsonpath": "$.version",
-        "regex": "([\\d.]+)"
+        "regex": "^v?(\d+(?:\.\d+)+)$"
     },
     "autoupdate": {
         "architecture": {
