@@ -14,7 +14,11 @@
         }
     },
     "bin": "dataflow.exe",
-    "checkver": "github",
+    "checkver": {
+        "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/dataflow/releases/latest.json",
+        "jsonpath": "$.version",
+        "regex": "([\\d.]+)"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
