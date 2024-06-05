@@ -1,12 +1,12 @@
 {
-    "version": "0.101.0",
+    "version": "0.102.0",
     "description": "OpenTelemetry Collector Contrib.",
     "homepage": "https://github.com/open-telemetry/opentelemetry-collector-releases",
     "license": "Apache License 2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/open-telemetry/opentelemetry-collector-releases/releases/download/v0.101.0/otelcol-contrib_0.101.0_windows_amd64.tar.gz",
-            "hash": "3d9c357a025fab6f8e36ca60e04c4f83a523e6c391ad71fdc054a2cf6f3a8e24"
+            "url": "https://github.com/open-telemetry/opentelemetry-collector-releases/releases/download/v0.102.0/otelcol-contrib_0.102.0_windows_amd64.tar.gz",
+            "hash": "07d6e0dc2b6919c2c92e1a0a23df0519aaeb34bded7b57c76009c154599ca0f2"
         }
     },
     "bin": [
