@@ -1,4 +1,3 @@
-[![Codeac](https://static.codeac.io/badges/2-759654835.svg "Codeac")](https://app.codeac.io/github/mvrpl/windows-apps)
 [![Checkver bucket mvrpl/windows-apps](https://github.com/mvrpl/windows-apps/actions/workflows/scoop_checkver.yaml/badge.svg?branch=main)](https://github.com/mvrpl/windows-apps/actions/workflows/scoop_checkver.yaml)
 
 # Scoop Bucket Manifests
