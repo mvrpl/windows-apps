@@ -22,7 +22,6 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [x] [speedtest](https://github.com/mvrpl/speed-test) `scoop install mvrpl/speedtest`
 - [x] [otelcol-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) `scoop install otelcol-contrib`
 - [x] [dataflow](https://bitbucket.org/mvrpl_br/dataflow) `scoop install dataflow`
-- [x] [dive](https://github.com/wagoodman/dive) `scoop install dive`
 - [x] [easeprobe](https://github.com/megaease/easeprobe) `scoop install easeprobe`
 
 ## Contributing
