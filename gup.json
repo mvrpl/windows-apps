@@ -7,6 +7,10 @@
         "64bit": {
             "url": "https://github.com/nao1215/gup/releases/download/v0.26.2/gup_0.26.2_windows_amd64.zip",
             "hash": "c2020fffe77ee01a0e4002613c522d20f6b048afd56379f071a855b7e25a857b"
+        },
+        "arm64": {
+            "url": "https://github.com/nao1215/gup/releases/download/v0.26.2/gup_0.26.2_windows_arm64.zip",
+            "hash": "d4abafeeb721f328c89f93f259f2d5464ce50996161af2859970f9983e016232"
         }
     },
     "bin": [
@@ -20,6 +24,9 @@
         "architecture": {
             "64bit": {
                 "url": "https://github.com/nao1215/gup/releases/download/v$version/gup_$version_windows_amd64.zip"
+            },
+            "arm64": {
+                "url": "https://github.com/nao1215/gup/releases/download/v$version/gup_$version_windows_arm64.zip"
             }
         }
     }
