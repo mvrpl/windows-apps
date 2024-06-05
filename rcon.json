@@ -22,6 +22,13 @@
             "64bit": {
                 "url": "https://github.com/gorcon/rcon-cli/releases/download/v$version/rcon-$version-win64.zip"
             }
-        }
+        },
+        "bin": [
+            "rcon-$version-win64\\rcon.exe",
+            [
+                "rcon-$version-win64\\rcon.exe",
+                "rcon"
+            ]
+        ]
     }
 }
