@@ -20,6 +20,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [x] [seaweedfs](https://github.com/seaweedfs/seaweedfs) `scoop install seaweedfs`
 - [x] [rcon](https://github.com/gorcon/rcon-cli) `scoop install rcon`
 - [x] [speedtest](https://github.com/mvrpl/speed-test) `scoop install mvrpl/speedtest`
+- [x] [ccp](https://github.com/mvrpl/ccp) `scoop install ccp`
 - [x] [otelcol-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) `scoop install otelcol-contrib`
 - [x] [dataflow](https://bitbucket.org/mvrpl_br/dataflow) `scoop install dataflow`
 - [x] [easeprobe](https://github.com/megaease/easeprobe) `scoop install easeprobe`
