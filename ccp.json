@@ -7,22 +7,18 @@
         "64bit": {
             "url": "https://github.com/mvrpl/ccp/releases/download/0.1.0/ccp-windows-amd64.exe",
             "hash": "a6bf9b07fcb16ad9988de09e7f3813807e989dbe130eaf5f0beaeb93093636db",
-            "bin": [
-                [
-                    "ccp-windows-amd64.exe",
-                    "ccp"
-                ]
-            ]
+            "post_install": [
+                "Rename-Item -Path \"$dir\\ccp-windows-amd64.exe\" -NewName \"$dir\\ccp.exe\""
+            ],
+            "bin": "ccp.exe"
         },
         "arm64": {
             "url": "https://github.com/mvrpl/ccp/releases/download/0.1.0/ccp-windows-arm64.exe",
             "hash": "baba7c6bccae1442d6e1d7351334ca8c2ed08f2602c95e9eda82849c0b823dba",
-            "bin": [
-                [
-                    "ccp-windows-arm64.exe",
-                    "ccp"
-                ]
-            ]
+            "post_install": [
+                "Rename-Item -Path \"$dir\\ccp-windows-arm64.exe\" -NewName \"$dir\\ccp.exe\""
+            ],
+            "bin": "ccp.exe"
         }
     },
     "checkver": "github",
