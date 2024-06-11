@@ -1,23 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Chat Copy Protocol written in Rust",
     "homepage": "https://github.com/mvrpl/ccp",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mvrpl/ccp/releases/download/0.1.0/ccp-windows-amd64.exe",
-            "hash": "a6bf9b07fcb16ad9988de09e7f3813807e989dbe130eaf5f0beaeb93093636db",
-            "pre_install": [
-                "Rename-Item -Path \"$dir\\ccp-windows-amd64.exe\" -NewName \"$dir\\ccp.exe\""
-            ],
+            "url": "https://github.com/mvrpl/ccp/releases/download/0.1.1/ccp-windows-amd64.exe",
+            "hash": "9fd69579f50e0cf10546416e0fffe9e9c23c94c45f65aa6b6933720964591561",
+            "pre_install": "Rename-Item -Path \"$dir\\ccp-windows-amd64.exe\" -NewName \"$dir\\ccp.exe\"",
             "bin": "ccp.exe"
         },
         "arm64": {
-            "url": "https://github.com/mvrpl/ccp/releases/download/0.1.0/ccp-windows-arm64.exe",
-            "hash": "baba7c6bccae1442d6e1d7351334ca8c2ed08f2602c95e9eda82849c0b823dba",
-            "pre_install": [
-                "Rename-Item -Path \"$dir\\ccp-windows-arm64.exe\" -NewName \"$dir\\ccp.exe\""
-            ],
+            "url": "https://github.com/mvrpl/ccp/releases/download/0.1.1/ccp-windows-arm64.exe",
+            "hash": "696e6a5a558903271e9016e3859dc87cd713b680c18a52706881e6a136df65b7",
+            "pre_install": "Rename-Item -Path \"$dir\\ccp-windows-arm64.exe\" -NewName \"$dir\\ccp.exe\"",
             "bin": "ccp.exe"
         }
     },
