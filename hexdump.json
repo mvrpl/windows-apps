@@ -10,5 +10,13 @@
         }
     },
     "pre_install": "Rename-Item -Path \"$dir\\hex.exe\" -NewName \"$dir\\hexdump.exe\"",
-    "bin": "hexdump.exe"
+    "bin": "hexdump.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/hollasch/hex/releases/download/v$version/hex.exe"
+            }
+        }
+    }
 }
