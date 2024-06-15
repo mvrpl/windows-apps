@@ -10,6 +10,7 @@
     "url": "https://github.com/mvrpl/ccp/archive/refs/tags/0.1.2.zip",
     "hash": "7853bfae0a1264d60a74fefb5a7590503678c3c4aba4d558e08fae18c013e0ab",
     "pre_install": [
+        "Set-Location -Path \"$dir\"",
         "cargo build --release",
         "Move-Item -Path \"$dir\\target\\release\\ccp.exe\" -Destination \"$dir\\ccp.exe\""
     ],
