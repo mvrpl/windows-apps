@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/ccp/releases/0.1.2/ccp.exe",
-            "hash": "f003a585c3896cf4aec2701b28e448ebd137ddafb8add8ddfa88d919dd5bdda0",
+            "hash": "7f41a2c1d507afd5ef986a036d13750e88892714aa3b93a1914d6c55c52a12b1",
             "bin": "ccp.exe"
         }
     },
