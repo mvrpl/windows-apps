@@ -5,6 +5,7 @@
     "license": "GPL-3.0",
     "depends": [
         "rustup",
+        "openssl",
         "perl"
     ],
     "url": "https://github.com/mvrpl/ccp/archive/refs/tags/0.1.2.zip",
