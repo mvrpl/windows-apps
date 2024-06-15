@@ -12,8 +12,8 @@
     "hash": "7853bfae0a1264d60a74fefb5a7590503678c3c4aba4d558e08fae18c013e0ab",
     "pre_install": [
         "Set-Location -Path \"$dir\\*\"",
-        "cargo build",
-        "Move-Item -Path \"target\\debug\\ccp.exe\" -Destination \"$dir\\ccp.exe\""
+        "cargo build --release",
+        "Move-Item -Path \"target\\release\\ccp.exe\" -Destination \"$dir\\ccp.exe\""
     ],
     "bin": "ccp.exe",
     "checkver": "github",
