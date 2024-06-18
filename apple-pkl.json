@@ -5,15 +5,14 @@
     "license": "Apache License 2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/apple/pkl/releases/download/0.26.0/jpkl",
-            "hash": "dc00252bf14ec13decf869e5061052e4b7300db20f4797d6434cc26aa8bfe77d"
+            "url": "https://github.com/apple/pkl/releases/download/0.26.0/pkl-windows-amd64.exe",
+            "hash": "1f6b7d2350949db417f8d14dafc2b9729543077dc93b478d48505b6911195db4"
         }
     },
     "depends": "openjdk",
-    "pre_install": "Set-Content -Path $dir\\pkl.cmd -Encoding ASCII -Value '@echo off', '', \"java -jar $dir\\jpkl %*\"",
     "bin": [
         [
-            "pkl.cmd",
+            "pkl-windows-amd64.exe",
             "pkl"
         ]
     ],
@@ -23,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/apple/pkl/releases/download/$version/jpkl"
+                "url": "https://github.com/apple/pkl/releases/download/$version/pkl-windows-amd64.exe"
             }
         }
     }
