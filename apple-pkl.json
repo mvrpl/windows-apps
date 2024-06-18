@@ -1,20 +1,16 @@
 {
-    "version": "0.25.3",
+    "version": "0.26.0",
     "description": "A configuration as code language with rich validation and tooling.",
     "homepage": "https://pkl-lang.org",
     "license": "Apache License 2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/apple/pkl/releases/download/0.25.3/jpkl",
-            "hash": "7589c3d7c2531d0446dbdc92990a13ff96803633060c04754c96198e234fe644"
+            "url": "https://github.com/apple/pkl/releases/download/0.26.0/jpkl",
+            "hash": "dc00252bf14ec13decf869e5061052e4b7300db20f4797d6434cc26aa8bfe77d"
         }
     },
-    "depends": [
-        "openjdk"
-    ],
-    "pre_install": [
-        "Set-Content -Path $dir\\pkl.cmd -Encoding ASCII -Value '@echo off', '', \"java -jar $dir\\jpkl %*\""
-    ],
+    "depends": "openjdk",
+    "pre_install": "Set-Content -Path $dir\\pkl.cmd -Encoding ASCII -Value '@echo off', '', \"java -jar $dir\\jpkl %*\"",
     "bin": [
         [
             "pkl.cmd",
