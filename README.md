@@ -1,5 +1,5 @@
 [![Checkver bucket mvrpl/windows-apps](https://github.com/mvrpl/windows-apps/actions/workflows/scoop_checkver.yaml/badge.svg?branch=main)](https://github.com/mvrpl/windows-apps/actions/workflows/scoop_checkver.yaml)  
-[![Windows-OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 # Scoop Bucket Manifests
 
