@@ -26,6 +26,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [x] [easeprobe](https://github.com/megaease/easeprobe) `scoop install easeprobe`
 - [x] [ssclient](https://github.com/neosmart/securestore-rs) `scoop install ssclient`
 - [x] [oxenAI](https://github.com/Oxen-AI/Oxen) `scoop install oxen`
+- [x] [GoFM](https://github.com/ssnat/GoFM) `scoop install gofm`
 
 ## Contributing
 
