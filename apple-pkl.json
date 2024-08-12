@@ -1,12 +1,12 @@
 {
-    "version": "0.26.1",
+    "version": "0.26.3",
     "description": "A configuration as code language with rich validation and tooling.",
     "homepage": "https://pkl-lang.org",
     "license": "Apache License 2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/apple/pkl/releases/download/0.26.1/pkl-windows-amd64.exe",
-            "hash": "14620d657fa54d2f0c16387eef262f22b879b0113319f790d8d946e69ca749ff"
+            "url": "https://github.com/apple/pkl/releases/download/0.26.3/pkl-windows-amd64.exe",
+            "hash": "75e02893a1e00ce6430eb125c624ec2ea146e6465b2d9512766e23846a3caf3e"
         }
     },
     "depends": "openjdk",
