@@ -29,6 +29,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [x] [oxenAI](https://github.com/Oxen-AI/Oxen) `scoop install oxen`
 - [x] [GoFM](https://github.com/ssnat/GoFM) `scoop install gofm`
 - [x] [ps3-disc-dumper](https://github.com/13xforever/ps3-disc-dumper) `scoop install ps3-disc-dumper`
+- [x] [kafka-magic](https://www.kafkamagic.com) `scoop install kafka-magic`
 
 ## Contributing
 
