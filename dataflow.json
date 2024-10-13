@@ -3,7 +3,7 @@
     "description": "ETL configurable written in Python",
     "homepage": "https://bitbucket.org/mvrpl_br/dataflow",
     "license": "GPL-3.0",
-    "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/dataflow/releases/0.3.0/dataflow-0.3.0.tar.gz",
+    "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/dataflow/releases/0.3.0/dataflow.tar.gz",
     "hash": "b691cf2f5dd179131a80bbab840bde268d075b441c2f7ac89949e5e61a0dc7f3",
     "bin": [
         [
@@ -12,7 +12,7 @@
         ]
     ],
     "pre_install": [
-        "python311 -m pip install -e $dir\\dataflow*",
+        "python311 -m pip install -e $dir\\dataflow",
         "Set-Content -Path $dir\\dataflow.cmd -Encoding ASCII -Value '@echo off', '', \"python311 -m dataflow %*\""
     ],
     "depends": [
@@ -24,6 +24,6 @@
         "regex": "^v?(\\d+(?:\\.\\d+)+)$"
     },
     "autoupdate": {
-        "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/dataflow/releases/$version/dataflow-$version.tar.gz"
+        "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/dataflow/releases/$version/dataflow.tar.gz"
     }
 }
