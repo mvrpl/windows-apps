@@ -32,6 +32,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [x] [GlareDB](https://github.com/GlareDB/glaredb) `scoop install glaredb`
 - [x] [ParquetViewer](https://github.com/mukunku/ParquetViewer) `scoop install parquet-viewer`
 - [x] [Keyring](https://github.com/hwchen/keyring-rs) `scoop install keyring-rs`
+- [x] [KSSH](https://github.com/mvrpl/kssh) `scoop install kssh`
 
 ## Contributing
 
