@@ -13,9 +13,9 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 
 ## Applications
 
-- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fclarinet.json&query=%24.version&style=flat&label=Scoop%20Version)](https://github.com/mvrpl/windows-apps/blob/main/clarinet.json) [clarinet](https://docs.hiro.so/clarinet) `scoop install clarinet`
-- [x] [chsht](https://github.com/mvrpl/Terminal-Cheat-Sheet) `scoop install chsht`
-- [x] [rusync](https://github.com/your-tools/rusync) `scoop install rusync`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fclarinet.json&query=%24.version&style=flat&label=clarinet)](https://github.com/mvrpl/windows-apps/blob/main/clarinet.json) `scoop install clarinet`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fchsht.json&query=%24.version&style=flat&label=chsht)](https://github.com/mvrpl/windows-apps/blob/main/chsht.json) `scoop install chsht`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Frusync.json&query=%24.version&style=flat&label=rusync)](https://github.com/mvrpl/windows-apps/blob/main/rusync.json) `scoop install rusync`
 - [x] [gup](https://github.com/nao1215/gup) `scoop install gup`
 - [x] [apple-pkl](https://pkl-lang.org) `scoop install apple-pkl`
 - [x] [seaweedfs](https://github.com/seaweedfs/seaweedfs) `scoop install seaweedfs`
