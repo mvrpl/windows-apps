@@ -16,23 +16,23 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fclarinet.json&query=%24.version&style=flat&label=clarinet)](https://github.com/mvrpl/windows-apps/blob/main/clarinet.json) `scoop install clarinet`
 - [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fchsht.json&query=%24.version&style=flat&label=chsht)](https://github.com/mvrpl/windows-apps/blob/main/chsht.json) `scoop install chsht`
 - [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Frusync.json&query=%24.version&style=flat&label=rusync)](https://github.com/mvrpl/windows-apps/blob/main/rusync.json) `scoop install rusync`
-- [x] [gup](https://github.com/nao1215/gup) `scoop install gup`
-- [x] [apple-pkl](https://pkl-lang.org) `scoop install apple-pkl`
-- [x] [seaweedfs](https://github.com/seaweedfs/seaweedfs) `scoop install seaweedfs`
-- [x] [rcon](https://github.com/gorcon/rcon-cli) `scoop install rcon`
-- [x] [speedtest](https://github.com/mvrpl/speed-test) `scoop install mvrpl/speedtest`
-- [x] [ccp](https://github.com/mvrpl/ccp) `scoop install ccp`
-- [x] [otelcol-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) `scoop install otelcol-contrib`
-- [x] [dataflow](https://bitbucket.org/mvrpl_br/dataflow) `scoop install dataflow`
-- [x] [easeprobe](https://github.com/megaease/easeprobe) `scoop install easeprobe`
-- [x] [ssclient](https://github.com/neosmart/securestore-rs) `scoop install ssclient`
-- [x] [oxenAI](https://github.com/Oxen-AI/Oxen) `scoop install oxen`
-- [x] [GoFM](https://github.com/ssnat/GoFM) `scoop install gofm`
-- [x] [kafka-magic](https://www.kafkamagic.com) `scoop install kafka-magic`
-- [x] [GlareDB](https://github.com/GlareDB/glaredb) `scoop install glaredb`
-- [x] [ParquetViewer](https://github.com/mukunku/ParquetViewer) `scoop install parquet-viewer`
-- [x] [Keyring](https://github.com/hwchen/keyring-rs) `scoop install keyring-rs`
-- [x] [KSSH](https://github.com/mvrpl/kssh) `scoop install kssh`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fgup.json&query=%24.version&style=flat&label=gup)](https://github.com/mvrpl/windows-apps/blob/main/gup.json) `scoop install gup`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fapple-pkl.json&query=%24.version&style=flat&label=apple-pkl)](https://github.com/mvrpl/windows-apps/blob/main/apple-pkl.json) `scoop install apple-pkl`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fseaweedfs.json&query=%24.version&style=flat&label=seaweedfs)](https://github.com/mvrpl/windows-apps/blob/main/seaweedfs.json) `scoop install seaweedfs`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Frcon.json&query=%24.version&style=flat&label=rcon)](https://github.com/mvrpl/windows-apps/blob/main/rcon.json) `scoop install rcon`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fmvrpl/speedtest.json&query=%24.version&style=flat&label=mvrpl/speedtest)](https://github.com/mvrpl/windows-apps/blob/main/mvrpl/speedtest.json) `scoop install mvrpl/speedtest`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fccp.json&query=%24.version&style=flat&label=ccp)](https://github.com/mvrpl/windows-apps/blob/main/ccp.json) `scoop install ccp`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fotelcol-contrib.json&query=%24.version&style=flat&label=otelcol-contrib)](https://github.com/mvrpl/windows-apps/blob/main/otelcol-contrib.json) `scoop install otelcol-contrib`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fdataflow.json&query=%24.version&style=flat&label=dataflow)](https://github.com/mvrpl/windows-apps/blob/main/dataflow.json) `scoop install dataflow`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Feaseprobe.json&query=%24.version&style=flat&label=easeprobe)](https://github.com/mvrpl/windows-apps/blob/main/easeprobe.json) `scoop install easeprobe`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fssclient.json&query=%24.version&style=flat&label=ssclient)](https://github.com/mvrpl/windows-apps/blob/main/ssclient.json) `scoop install ssclient`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Foxen.json&query=%24.version&style=flat&label=oxen)](https://github.com/mvrpl/windows-apps/blob/main/oxen.json) `scoop install oxen`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fgofm.json&query=%24.version&style=flat&label=gofm)](https://github.com/mvrpl/windows-apps/blob/main/gofm.json) `scoop install gofm`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fkafka-magic.json&query=%24.version&style=flat&label=kafka-magic)](https://github.com/mvrpl/windows-apps/blob/main/kafka-magic.json) `scoop install kafka-magic`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fglaredb.json&query=%24.version&style=flat&label=glaredb)](https://github.com/mvrpl/windows-apps/blob/main/glaredb.json) `scoop install glaredb`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fparquet-viewer.json&query=%24.version&style=flat&label=parquet-viewer)](https://github.com/mvrpl/windows-apps/blob/main/parquet-viewer.json) `scoop install parquet-viewer`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fkeyring-rs.json&query=%24.version&style=flat&label=keyring-rs)](https://github.com/mvrpl/windows-apps/blob/main/keyring-rs.json) `scoop install keyring-rs`
+- [x] [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fkssh.json&query=%24.version&style=flat&label=kssh)](https://github.com/mvrpl/windows-apps/blob/main/kssh.json) `scoop install kssh`
 
 ## Contributing
 
