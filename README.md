@@ -34,6 +34,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fkeyring-rs.json&query=%24.version&style=flat&label=keyring-rs)](https://github.com/mvrpl/windows-apps/blob/main/keyring-rs.json) `scoop install keyring-rs`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fkssh.json&query=%24.version&style=flat&label=kssh)](https://github.com/mvrpl/windows-apps/blob/main/kssh.json) `scoop install kssh`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Ffabric.json&query=%24.version&style=flat&label=fabric)](https://github.com/mvrpl/windows-apps/blob/main/fabric.json) `scoop install fabric`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fwhatsapp.json&query=%24.version&style=flat&label=whatsapp)](https://github.com/mvrpl/windows-apps/blob/main/whatsapp.json) `scoop install whatsapp`
 
 ## Contributing
 
