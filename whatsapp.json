@@ -1,12 +1,12 @@
 {
-    "version": "5.0.0",
+    "version": "5.1.0",
     "description": "API for Whatsapp Web Multi Device Version, Support UI & Webhook.",
     "homepage": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice/releases/download/v5.0.0/windows-amd64.exe",
-            "hash": "b62f9312f5d8b137e9e9dc85fdfa90bba76a4362ad88eb2827ae7aba1d78c819"
+            "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice/releases/download/v5.1.0/windows-amd64.exe",
+            "hash": "1b194d6712388633aee112999103342a66a51dcd93b1db1893cd150e611e2bb2"
         }
     },
     "bin": [
