@@ -24,7 +24,7 @@ jobs:
         id: scoop-windows
         run: |
           scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
-          ~\scoop\buckets\mvrpl\bin\checkver.ps1 -u
+          ~\scoop\apps\scoop\current\bin\checkver.ps1 -Dir ~\scoop\buckets\mvrpl\bucket -u
           rm install.ps1 && cp ~\scoop\buckets\mvrpl\bucket\*.json .\bucket\
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
