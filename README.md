@@ -1,5 +1,5 @@
-[![Checkver bucket mvrpl/windows-apps](https://github.com/mvrpl/windows-apps/actions/workflows/scoop_checkver.yaml/badge.svg?branch=main&color=%23012456)](https://github.com/mvrpl/windows-apps/actions/workflows/scoop_checkver.yaml)  
-[![Windows](https://img.shields.io/badge/Windows-303030?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0ODc1IDQ4NzUiPjxwYXRoIGZpbGw9IiMwMDc4ZDQiIGQ9Ik0wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgyMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQiLz48L3N2Zz4=&logoColor=white&color=%23012456)](#)
+[![Checkver bucket mvrpl/windows-apps](https://github.com/mvrpl/windows-apps/actions/workflows/scoop_checkver.yaml/badge.svg?branch=main)](https://github.com/mvrpl/windows-apps/actions/workflows/scoop_checkver.yaml)  
+[![Windows](https://img.shields.io/badge/Windows-303030?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0ODc1IDQ4NzUiPjxwYXRoIGZpbGw9IiMwMDc4ZDQiIGQ9Ik0wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgyMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQiLz48L3N2Zz4=&logoColor=white)](#)
 
 # Scoop Bucket Manifests
 
