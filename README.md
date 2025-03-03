@@ -34,6 +34,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fkssh.json&query=%24.version&style=flat&label=kssh&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/kssh.json) `scoop install kssh`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Ffabric.json&query=%24.version&style=flat&label=fabric&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/fabric.json) `scoop install fabric`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fwhatsapp.json&query=%24.version&style=flat&label=whatsapp&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/whatsapp.json) `scoop install whatsapp`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fwren-ai.json&query=%24.version&style=flat&label=wren-ai&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/wren-ai.json) `scoop install wren-ai`
 
 ## Contributing
 
