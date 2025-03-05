@@ -20,6 +20,10 @@
             "solana-keygen"
         ],
         [
+            "solana-release\\bin\\solana-test-validator.exe",
+            "solana-test-validator"
+        ],
+        [
             "solana-release\\bin\\solana-tokens.exe",
             "solana-tokens"
         ],
