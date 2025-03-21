@@ -1,12 +1,12 @@
 {
-    "version": "0.16.0",
+    "version": "0.17.0",
     "description": "Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI.",
     "homepage": "https://github.com/Canner/WrenAI",
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Canner/WrenAI/releases/download/0.16.0/wren-launcher-windows.zip",
-            "hash": "eb958a0d02e56fc780e74e05fd69c8409931be766b2f23175348221e47e1c714"
+            "url": "https://github.com/Canner/WrenAI/releases/download/0.17.0/wren-launcher-windows.zip",
+            "hash": "5b2270fa5c063510d17ff9d565b6efd68eac205918f455e60ae1ba79c4d38f3f"
         }
     },
     "bin": [
