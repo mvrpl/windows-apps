@@ -37,6 +37,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fwren-ai.json&query=%24.version&style=flat&label=wren-ai&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/wren-ai.json) `scoop install wren-ai`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fatlan.json&query=%24.version&style=flat&label=atlan&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/atlan.json) `scoop install atlan`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fsolana-cli.json&query=%24.version&style=flat&label=solana-cli&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/solana-cli.json) `scoop install solana-cli`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fgnutls.json&query=%24.version&style=flat&label=gnutls&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/gnutls.json) `scoop install mvrpl/gnutls`
 
 ## Contributing
 
