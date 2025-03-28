@@ -35,10 +35,6 @@
             "ocsptool"
         ],
         [
-            "win64-build\\bin\\p11tool.exe",
-            "p11tool"
-        ],
-        [
             "win64-build\\bin\\psktool.exe",
             "psktool"
         ]
