@@ -40,8 +40,8 @@
         ]
     ],
     "checkver": {
-        "url": "https://www.gnutls.org/manual/gnutls.html",
-        "regex": "GnuTLS ([\\d.]+)"
+        "url": "https://www.gnutls.org/download.html",
+        "regex": "([\\d.]+):mingw64"
     },
     "autoupdate": {
         "architecture": {
