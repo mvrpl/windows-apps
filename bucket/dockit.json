@@ -1,0 +1,30 @@
+{
+    "version": "0.6.4",
+    "description": "NoSQL/NewSQL GUI client.",
+    "homepage": "https://dockit.geekfun.club",
+    "license": "Apache-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/geek-fun/dockit/releases/download/v0.6.4/DocKit_0.6.4_x64-setup.exe",
+            "hash": "aa64d442c032efb47f5c9f22fb32da22d21fcb09746cc708ec5d3edc973d8b20"
+        }
+    },
+    "innosetup": true,
+    "bin": "DocKit.exe",
+    "shortcuts": [
+        [
+            "DocKit.exe",
+            "DocKit"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/geek-fun/dockit"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/geek-fun/dockit/releases/download/v$version/DocKit_$version_x64-setup.exe"
+            }
+        }
+    }
+}

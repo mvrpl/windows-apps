@@ -11,7 +11,7 @@ Applications not found in main or extras
 scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 ```
 
-## Applications
+## Terminal Applications
 
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fclarinet.json&query=%24.version&style=flat&label=clarinet&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/clarinet.json) `scoop install clarinet`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fchsht.json&query=%24.version&style=flat&label=chsht&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/chsht.json) `scoop install chsht`
@@ -38,6 +38,11 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fatlan.json&query=%24.version&style=flat&label=atlan&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/atlan.json) `scoop install atlan`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fsolana-cli.json&query=%24.version&style=flat&label=solana-cli&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/solana-cli.json) `scoop install solana-cli`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fgnutls.json&query=%24.version&style=flat&label=gnutls&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/gnutls.json) `scoop install mvrpl/gnutls`
+
+
+## GUI Applications
+
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fdockit.json&query=%24.version&style=flat&label=dockit&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/dockit.json) `scoop install dockit`
 
 ## Contributing
 
