@@ -16,7 +16,7 @@
         ]
     },
     "uninstaller": {
-        "script": "Start-Process \"([System.Environment]::GetFolderPath('LocalApplicationData'))\\DocKit\\uninstall.exe\" -ArgumentList '/S' -Wait | Out-Null"
+        "script": "Start-Process \"$([System.Environment]::GetFolderPath('LocalApplicationData'))\\DocKit\\uninstall.exe\" -ArgumentList '/S' -Wait | Out-Null"
     },
     "checkver": {
         "github": "https://github.com/geek-fun/dockit"
