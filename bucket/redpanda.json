@@ -21,6 +21,9 @@
         "architecture": {
             "64bit": {
                 "url": "https://github.com/redpanda-data/redpanda/releases/download/v$version/rpk-windows-amd64.zip"
+            },
+            "arm64": {
+                "url": "https://github.com/redpanda-data/redpanda/releases/download/v$version/rpk-windows-arm64.zip"
             }
         }
     }

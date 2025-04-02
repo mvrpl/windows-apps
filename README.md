@@ -39,6 +39,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fsolana-cli.json&query=%24.version&style=flat&label=solana-cli&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/solana-cli.json) `scoop install solana-cli`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fgnutls.json&query=%24.version&style=flat&label=gnutls&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/gnutls.json) `scoop install mvrpl/gnutls`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fredpanda.json&query=%24.version&style=flat&label=redpanda&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/redpanda.json) `scoop install redpanda`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fredpanda-connect.json&query=%24.version&style=flat&label=redpanda-connect&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/redpanda-connect.json) `scoop install redpanda-connect`
 
 ## GUI Applications
 
