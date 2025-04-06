@@ -11,7 +11,8 @@
     },
     "installer": {
         "script": [
-            "Start-Process \"$dir\\DocKit_*_x64-setup.exe\" -ArgumentList '/S' -Wait | Out-Null",
+            "Move-Item -Path \"$dir\\DocKit_*_x64-setup.exe\" -Destination \"$dir\\setup.exe\"",
+            "Start-Process \"$dir\\setup.exe\" -ArgumentList '/S' -Wait | Out-Null",
             "Remove-Item \"$dir\\setup.exe\""
         ]
     },
