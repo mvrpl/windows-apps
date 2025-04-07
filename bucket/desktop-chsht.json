@@ -1,12 +1,12 @@
 {
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "Cheat Sheets on Desktop",
     "homepage": "https://github.com/mvrpl/Desktop-Cheat-Sheet",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mvrpl/Desktop-Cheat-Sheet/releases/download/v0.0.1/Desktop-Cheat-Sheet-amd64-installer.exe",
-            "hash": "8331b9e359fb33f2101010123638a4a26208b31f6da627d8bfff6030831d0491"
+            "url": "https://github.com/mvrpl/Desktop-Cheat-Sheet/releases/download/v0.1.0/Desktop-Cheat-Sheet-amd64-installer.exe",
+            "hash": "26f67b45143037e7a31a3b7aa91d2325dc9d92cf77e9e639f93415a0bfbec258"
         }
     },
     "depends": "chsht",
@@ -18,7 +18,7 @@
         ]
     },
     "uninstaller": {
-        "script": "Start-Process \"$([System.Environment]::GetFolderPath('ProgramFiles'))\\Desktop-Cheat-Sheet\\Desktop-Cheat-Sheet\\uninstall.exe\" -ArgumentList '/S' -Wait | Out-Null"
+        "script": "Start-Process \"$([System.Environment]::GetFolderPath('LocalApplicationData'))\\mvrpl_br\\Desktop-Cheat-Sheet\\uninstall.exe\" -ArgumentList '/S' -Wait | Out-Null"
     },
     "checkver": "github",
     "autoupdate": {
