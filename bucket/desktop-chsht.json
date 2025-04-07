@@ -1,0 +1,31 @@
+{
+    "version": "0.0.1",
+    "description": "Cheat Sheets on Desktop",
+    "homepage": "https://github.com/mvrpl/Desktop-Cheat-Sheet",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mvrpl/Desktop-Cheat-Sheet/releases/download/v0.0.1/Desktop-Cheat-Sheet-amd64-installer.exe",
+            "hash": "8331b9e359fb33f2101010123638a4a26208b31f6da627d8bfff6030831d0491"
+        }
+    },
+    "depends": "chsht",
+    "installer": {
+        "script": [
+            "Move-Item -Path \"$dir\\Desktop-Cheat-Sheet-amd64-installer.exe\" -Destination \"$dir\\setup.exe\"",
+            "Start-Process \"$dir\\setup.exe\" -ArgumentList '/S' -Wait | Out-Null",
+            "Remove-Item \"$dir\\setup.exe\""
+        ]
+    },
+    "uninstaller": {
+        "script": "Start-Process \"$([System.Environment]::GetFolderPath('ProgramFiles'))\\Desktop-Cheat-Sheet\\Desktop-Cheat-Sheet\\uninstall.exe\" -ArgumentList '/S' -Wait | Out-Null"
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/mvrpl/Desktop-Cheat-Sheet/releases/download/v$version/Desktop-Cheat-Sheet-amd64-installer.exe"
+            }
+        }
+    }
+}

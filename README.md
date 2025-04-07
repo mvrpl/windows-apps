@@ -45,6 +45,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 ## GUI Applications
 
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fdockit.json&query=%24.version&style=flat&label=dockit&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/dockit.json) `scoop install dockit`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fdesktop-chsht.json&query=%24.version&style=flat&label=desktop-chsht&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/desktop-chsht.json) `scoop install desktop-chsht`
 
 ## Contributing
 
