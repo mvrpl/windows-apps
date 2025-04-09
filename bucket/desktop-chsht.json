@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Cheat Sheets on Desktop",
     "homepage": "https://github.com/mvrpl/Desktop-Cheat-Sheet",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mvrpl/Desktop-Cheat-Sheet/releases/download/v0.2.0/Desktop-Cheat-Sheet-amd64-installer.exe",
-            "hash": "279864a8f8b78c3b74dd13706df9a7e90115a027452bb0e666af8f10915726d2"
+            "url": "https://github.com/mvrpl/Desktop-Cheat-Sheet/releases/download/v0.2.1/Desktop-Cheat-Sheet-amd64-installer.exe",
+            "hash": "74a45c38b53dbda7692465856326e5d5627472f1a3c6b475a381aab3ec67b803"
         }
     },
     "depends": "chsht",
