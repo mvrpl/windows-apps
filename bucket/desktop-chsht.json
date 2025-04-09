@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/mvrpl/Desktop-Cheat-Sheet/releases/download/v0.2.1/Desktop-Cheat-Sheet-amd64-installer.exe",
-            "hash": "74a45c38b53dbda7692465856326e5d5627472f1a3c6b475a381aab3ec67b803"
+            "hash": "5affedb73fd6f74b3ce740dafcf144f52f55f7c8e38a48a7cb6d375793504e9f"
         }
     },
     "depends": "chsht",
