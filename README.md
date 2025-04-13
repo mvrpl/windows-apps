@@ -42,11 +42,13 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fredpanda-connect.json&query=%24.version&style=flat&label=redpanda-connect&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/redpanda-connect.json) `scoop install redpanda-connect`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fscreego.json&query=%24.version&style=flat&label=screego&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/screego.json) `scoop install screego`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fokta-aws-cli.json&query=%24.version&style=flat&label=okta-aws-cli&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/okta-aws-cli.json) `scoop install okta-aws-cli`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Flockbook-cli.json&query=%24.version&style=flat&label=lockbook-cli&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/lockbook-cli.json) `scoop install lockbook-cli`
 
 ## GUI Applications
 
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fdockit.json&query=%24.version&style=flat&label=dockit&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/dockit.json) `scoop install dockit`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fdesktop-chsht.json&query=%24.version&style=flat&label=desktop-chsht&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/desktop-chsht.json) `scoop install desktop-chsht`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Flockbook.json&query=%24.version&style=flat&label=lockbook&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/lockbook.json) `scoop install lockbook`
 
 ## Contributing
 
