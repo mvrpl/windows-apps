@@ -3,7 +3,7 @@ name: Checkver bucket mvrpl/windows-apps
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 */4 * * *'
 
 jobs:
   checkver:
