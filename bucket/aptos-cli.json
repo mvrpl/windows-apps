@@ -13,7 +13,7 @@
     "checkver": {
         "url": "https://api.github.com/repos/aptos-labs/aptos-core/releases",
         "jsonpath": "$..tag_name",
-        "regex": "aptos-cli-v([\\d.]+)"
+        "regex": "^aptos-cli-v([\\d.]+)$"
     },
     "autoupdate": {
         "architecture": {
