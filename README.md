@@ -43,6 +43,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Flockbook-cli.json&query=%24.version&style=flat&label=lockbook-cli&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/lockbook-cli.json) `scoop install lockbook-cli`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fminijinja-cli.json&query=%24.version&style=flat&label=minijinja-cli&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/minijinja-cli.json) `scoop install minijinja-cli`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Faptos-cli.json&query=%24.version&style=flat&label=aptos-cli&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/aptos-cli.json) `scoop install aptos-cli`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fferron.json&query=%24.version&style=flat&label=ferron&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/ferron.json) `scoop install ferron`
 
 ## GUI Applications
 
