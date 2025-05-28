@@ -11,7 +11,7 @@ Applications not found in main or extras
 scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 ```
 
-## Terminal Applications
+## TUI Applications
 
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fclarinet.json&query=%24.version&style=flat&label=clarinet&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/clarinet.json) `scoop install clarinet`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fchsht.json&query=%24.version&style=flat&label=chsht&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/chsht.json) `scoop install chsht`
