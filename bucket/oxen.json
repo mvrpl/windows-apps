@@ -1,12 +1,12 @@
 {
-    "version": "0.34.5",
+    "version": "0.36.1",
     "description": "Oxen.ai's core rust library, server, and CLI.",
     "homepage": "https://github.com/Oxen-AI/Oxen",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Oxen-AI/Oxen/releases/download/v0.34.5/oxen.exe",
-            "hash": "dc2224079045da5701d9ec441b2efd436607a1f067179453e6c1492fcb8b1f06"
+            "url": "https://github.com/Oxen-AI/Oxen/releases/download/v0.36.1/oxen.exe",
+            "hash": "8d21898d4e2f529dbd0cdff47f2b26ae2b158d83e85e270ab35a359f18d000f3"
         }
     },
     "bin": "oxen.exe",
