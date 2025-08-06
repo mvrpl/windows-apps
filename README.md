@@ -45,7 +45,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Faptos-cli.json&query=%24.version&style=flat&label=aptos-cli&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/aptos-cli.json) `scoop install aptos-cli`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fferron.json&query=%24.version&style=flat&label=ferron&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/ferron.json) `scoop install ferron`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Faws-finops.json&query=%24.version&style=flat&label=aws-finops&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/aws-finops.json) `scoop install aws-finops`
-- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Faws-finops.json&query=%24version&style=flat&label=aws-finops&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/aws-finops.json) `scoop install mvrpl/spark3`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fspark3.json&query=%24.version&style=flat&label=spark3&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/spark3.json) `scoop install mvrpl/spark3`
 
 ## GUI Applications
 
