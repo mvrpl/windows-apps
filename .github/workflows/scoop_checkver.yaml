@@ -27,7 +27,7 @@ jobs:
           ~\scoop\apps\scoop\current\bin\checkver.ps1 -Dir ~\scoop\buckets\mvrpl\bucket -u
           rm install.ps1 && cp ~\scoop\buckets\mvrpl\bucket\*.json .\bucket\
       - name: Push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_user_name: mvrpl
           commit_user_email: mvrpl.me@gmail.com
