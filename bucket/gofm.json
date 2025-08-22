@@ -1,5 +1,5 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.4",
     "description": "GoFM is a cross-platform real-time audio streaming server for MP3 files.",
     "homepage": "https://github.com/pxgo/go-fm",
     "license": "MIT",
