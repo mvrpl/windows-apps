@@ -47,6 +47,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Faws-finops.json&query=%24.version&style=flat&label=aws-finops&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/aws-finops.json) `scoop install aws-finops`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fspark3.json&query=%24.version&style=flat&label=spark3&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/spark3.json) `scoop install mvrpl/spark3`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fdotenvx.json&query=%24.version&style=flat&label=dotenvx&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/dotenvx.json) `scoop install dotenvx`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fsui.json&query=%24.version&style=flat&label=sui&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/sui.json) `scoop install sui`
 
 ## GUI Applications
 
