@@ -15,7 +15,7 @@
         "npm i @ton/tolk-js"
     ],
     "env_set": {
-        "TOLK_STDLIB": "$dir/node_modules/@ton/tolk-js/dist/tolk-stdlib"
+        "TOLK_STDLIB": "$dir\\node_modules\\@ton\\tolk-js\\dist\\tolk-stdlib"
     },
     "checkver": {
         "url": "https://api.github.com/repos/ton-blockchain/ton/releases",
