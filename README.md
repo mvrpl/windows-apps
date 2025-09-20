@@ -51,6 +51,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Frustscan.json&query=%24.version&style=flat&label=rustscan&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/rustscan.json) `scoop install rustscan`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fiota.json&query=%24.version&style=flat&label=iota&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/iota.json) `scoop install iota`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Flassie.json&query=%24.version&style=flat&label=lassie&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/lassie.json) `scoop install lassie`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Ftolk.json&query=%24.version&style=flat&label=tolk&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/tolk.json) `scoop install tolk`
 
 ## GUI Applications
 
