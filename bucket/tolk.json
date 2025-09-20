@@ -10,6 +10,13 @@
         }
     },
     "bin": "tolk.exe",
+    "depends": "main/nodejs",
+    "post_install": [
+        "npm i @ton/tolk-js"
+    ],
+    "env_set": {
+        "TOLK_STDLIB": "$dir/node_modules/@ton/tolk-js/dist/tolk-stdlib"
+    },
     "checkver": {
         "url": "https://api.github.com/repos/ton-blockchain/ton/releases",
         "jsonpath": "$..tag_name",
