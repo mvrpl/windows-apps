@@ -3,7 +3,9 @@
 
 # Scoop Bucket Manifests
 
-Applications not found in main or extras
+Applications not found in main or extras.
+
+[Scoop Apps](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2Fmvrpl%2Fwindows-apps%22&o=false)
 
 ## Bucket Addition
 
