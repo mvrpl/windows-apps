@@ -8,16 +8,20 @@
             "url": "https://github.com/anacrolix/dms/releases/download/v1.7.2/dms_1.7.2_windows_amd64.exe",
             "hash": "450e18cca8b4772ab1a9eee8a6826160ee84fb663e17aadc18249b69d2f7aba0",
             "bin": [
-                "dms_1.7.2_windows_amd64.exe",
-                "dms"
+                [
+                    "dms_1.7.2_windows_amd64.exe",
+                    "dms"
+                ]
             ]
         },
         "arm64": {
             "url": "https://github.com/anacrolix/dms/releases/download/v1.7.2/dms_1.7.2_windows_arm64.exe",
             "hash": "ee87c112882f020876168172fa65802c0464615c3d4a4ad3dbead7d2f3fb14e1",
             "bin": [
-                "dms_1.7.2_windows_arm64.exe",
-                "dms"
+                [
+                    "dms_1.7.2_windows_arm64.exe",
+                    "dms"
+                ]
             ]
         }
     },
