@@ -16,6 +16,7 @@
         ]
     ],
     "pre_install": [
+        "Move-Item -Path 'spark-*\\*' -Destination $dir -Force",
         "Set-Content -Path $dir\\spark3-shell.cmd -Encoding ASCII -Value '@echo off', '', \"$dir\\bin\\spark-shell.cmd %*\""
     ],
     "depends": [
