@@ -1,12 +1,12 @@
 {
-    "version": "0.9.25",
+    "version": "25.9.17",
     "description": "The private note-taking platform.",
     "homepage": "https://lockbook.net",
-    "license": "Unlicense license",
+    "license": "Unlicense",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lockbook/lockbook/releases/download/0.9.25/lockbook-windows-setup-x86_64.exe",
-            "hash": "519505bb6e51e6495cbcccafb5d7b8163c1e1bb1bc8aa6346756221a172eda65"
+            "url": "https://github.com/lockbook/lockbook/releases/download/25.9.17/lockbook-windows-setup-x86_64.exe",
+            "hash": "e772a0278917fe7c8bc7332e655454e096b90346c2d16013e1d50cb7ec23648a"
         }
     },
     "installer": {

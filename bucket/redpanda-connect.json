@@ -1,16 +1,16 @@
 {
-    "version": "4.61.0",
+    "version": "4.65.0",
     "description": "Fancy stream processing made operationally mundane",
     "homepage": "https://docs.redpanda.com/redpanda-connect",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/redpanda-data/connect/releases/download/v4.61.0/redpanda-connect_4.61.0_windows_amd64.tar.gz",
-            "hash": "e76600949f471d84399dcff4585746cd178ad3fb573642fbaa5e025f980f33b0"
+            "url": "https://github.com/redpanda-data/connect/releases/download/v4.65.0/redpanda-connect_4.65.0_windows_amd64.tar.gz",
+            "hash": "8758b65dc375d255d860754ce888b4aa73241d9851fdd9f55658e8ab1f19ca82"
         },
         "arm64": {
-            "url": "https://github.com/redpanda-data/connect/releases/download/v4.61.0/redpanda-connect_4.61.0_windows_arm64.tar.gz",
-            "hash": "52dc0a7226a1c135b19d30aef0958e5ee0c5fc5b93efbafaf26e06f2c9fa42ee"
+            "url": "https://github.com/redpanda-data/connect/releases/download/v4.65.0/redpanda-connect_4.65.0_windows_arm64.tar.gz",
+            "hash": "ef3ba737a403e0fc8ba4cc62c13ff78e362f06fb65b3a80dfa5e0c31229beac2"
         }
     },
     "bin": "redpanda-connect.exe",
