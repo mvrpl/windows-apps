@@ -1,12 +1,12 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.1",
     "description": "Um painel de custos e recursos da AWS",
     "homepage": "https://github.com/diillson/aws-finops-dashboard-go",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/diillson/aws-finops-dashboard-go/releases/download/v1.1.0/aws-finops-windows-amd64.exe",
-            "hash": "48a292c0cba4ab8006e34746a3a62273a19f37685c4b59ccb7bf1a9ae3104546"
+            "url": "https://github.com/diillson/aws-finops-dashboard-go/releases/download/v1.2.1/aws-finops-windows-amd64.exe",
+            "hash": "cfcc31413ebf386e6b3151a3232606d58eeebd09174875a1dc46eb5d71c1ed0c"
         }
     },
     "bin": [
