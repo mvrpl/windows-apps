@@ -56,6 +56,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Ftolk.json&query=%24.version&style=flat&label=tolk&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/tolk.json) `scoop install tolk`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fdms.json&query=%24.version&style=flat&label=dms&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/dms.json) `scoop install dms`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fhyperledger-fabric.json&query=%24.version&style=flat&label=hyperledger-fabric&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/hyperledger-fabric.json) `scoop install hyperledger-fabric`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fhyperledger-fabric-ca.json&query=%24.version&style=flat&label=hyperledger-fabric-ca&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/hyperledger-fabric-ca.json) `scoop install hyperledger-fabric-ca`
 
 ## GUI Applications
 
