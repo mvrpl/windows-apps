@@ -58,6 +58,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fhyperledger-fabric.json&query=%24.version&style=flat&label=hyperledger-fabric&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/hyperledger-fabric.json) `scoop install hyperledger-fabric`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fturso-cli.json&query=%24.version&style=flat&label=turso-cli&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/turso-cli.json) `scoop install turso-cli`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Frippled.json&query=%24.version&style=flat&label=rippled&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/rippled.json) `scoop install rippled`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fwebsocat.json&query=%24.version&style=flat&label=websocat&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/websocat.json) `scoop install websocat`
 
 ## GUI Applications
 
