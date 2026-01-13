@@ -60,6 +60,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Frippled.json&query=%24.version&style=flat&label=rippled&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/rippled.json) `scoop install rippled`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fwebsocat.json&query=%24.version&style=flat&label=websocat&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/websocat.json) `scoop install websocat`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fs3glob.json&query=%24.version&style=flat&label=s3glob&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/s3glob.json) `scoop install s3glob`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fspark.json&query=%24.version&style=flat&label=spark&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/spark.json) `scoop install mvrpl/spark`
 
 ## GUI Applications
 
