@@ -1,12 +1,12 @@
 {
-    "version": "1.51.4",
+    "version": "1.52.0",
     "description": "A secure dotenv from the creator of `dotenv`.",
     "homepage": "https://github.com/dotenvx/dotenvx",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dotenvx/dotenvx/releases/download/v1.51.4/dotenvx-windows-x86_64.zip",
-            "hash": "26aafd6fd8d0cb2474296a9a15750821e2a5b020a9f250b01106b5433d383c04"
+            "url": "https://github.com/dotenvx/dotenvx/releases/download/v1.52.0/dotenvx-windows-x86_64.zip",
+            "hash": "7af2c7de81b82f7b69eb1078fe7f09a7266bcd689182c430384d807a23338c0b"
         }
     },
     "bin": [
