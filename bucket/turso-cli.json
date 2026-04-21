@@ -1,12 +1,12 @@
 {
-    "version": "0.5.1",
+    "version": "0.5.3",
     "description": "Turso Database is an in-process SQL database written in Rust, compatible with SQLite.",
     "homepage": "https://github.com/tursodatabase/turso",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tursodatabase/turso/releases/download/v0.5.1/turso_cli-x86_64-pc-windows-msvc.zip",
-            "hash": "16bcfd5694b22b848dea2261ef34e54187c07caa0ed18d3d08cbb79cc708faf7"
+            "url": "https://github.com/tursodatabase/turso/releases/download/v0.5.3/turso_cli-x86_64-pc-windows-msvc.zip",
+            "hash": "988915e969a7671d3b2aa61f1dd261d7f616d6dfe81e06590a4101727c380e34"
         }
     },
     "bin": "tursodb.exe",
