@@ -16,7 +16,7 @@
             "spark3-submit"
         ],
         [
-            "spyspark3.cmd",
+            "pyspark3.cmd",
             "pyspark3"
         ]
     ],
