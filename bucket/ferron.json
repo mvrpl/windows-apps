@@ -18,8 +18,7 @@
         "ferron-passwd.exe"
     ],
     "checkver": {
-        "url": "https://downloads.ferronweb.org/latest.ferron",
-        "regex": "([\\d.]+)"
+        "github": "https://github.com/ferronweb/ferron"
     },
     "autoupdate": {
         "architecture": {
