@@ -7,8 +7,8 @@
     "suggest": {
         "JDK": "java/openjdk"
     },
-    "url": "https://www.apache.org/dyn/closer.lua/spark/spark-4.1.2/spark-4.1.2-bin-hadoop3.tgz",
-    "hash": "40f35e95091c9de79b73bc75ab7df6205b247c4b2511c05613bd4a457acd30a1",
+    "url": "https://dlcdn.apache.org/spark/spark-4.1.2/spark-4.1.2-bin-hadoop3.tgz",
+    "hash": "sha512:490510e13e97da9493302bb33a802574bc417fcc107441419d1a0f87f2b372000db6e26f831a2bf92bc4b18bdf2c9023b1b6f2d021afdc7d6c19c8a11c03e685",
     "extract_dir": "spark-4.1.2-bin-hadoop3",
     "env_add_path": "bin",
     "env_set": {
@@ -21,7 +21,7 @@
         "regex": "\"v([\\d.]+)\""
     },
     "autoupdate": {
-        "url": "https://www.apache.org/dyn/closer.lua/spark/spark-$version/spark-$version-bin-hadoop3.tgz",
+        "url": "https://dlcdn.apache.org/spark/spark-$version/spark-$version-bin-hadoop3.tgz",
         "hash": {
             "url": "$url.sha512",
             "regex": "$basename: ([A-F0-9\\s]+)$"
