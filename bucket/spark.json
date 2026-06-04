@@ -18,7 +18,7 @@
     "checkver": {
         "url": "https://api.github.com/repos/apache/spark/tags",
         "jsonpath": "$..name",
-        "regex": "^v([\\d.]+)$"
+        "regex": "\"v([\\d.]+)\""
     },
     "autoupdate": {
         "url": "https://www.apache.org/dyn/closer.lua/spark/spark-$version/spark-$version-bin-hadoop3.tgz",
