@@ -15,7 +15,7 @@ jobs:
           fetch-depth: 0
       - name: Set up Scoop
         id: set-up-scoop
-        uses: MinoruSekine/setup-scoop@v4
+        uses: MinoruSekine/setup-scoop@v4.0.2
         with:
           install_scoop: 'true'
           scoop_update: 'true'
