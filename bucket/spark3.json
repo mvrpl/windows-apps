@@ -31,7 +31,7 @@
     ],
     "checkver": {
         "url": "https://api.github.com/repos/apache/spark/tags?per_page=100",
-        "jp": "$..name",
+        "jsonpath": "$..name",
         "regex": "^v(3\\.[\\d.]+)$"
     },
     "autoupdate": {
