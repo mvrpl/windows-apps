@@ -16,8 +16,9 @@
     },
     "persist": "conf",
     "checkver": {
-        "url": "https://spark.apache.org/downloads.html",
-        "regex": "Verify this release using the ([\\d\\.]+)"
+        "url": "https://api.github.com/repos/apache/spark/tags",
+        "jsonpath": "$..name",
+        "regex": "^v([\\d.]+)$"
     },
     "autoupdate": {
         "url": "https://www.apache.org/dyn/closer.lua/spark/spark-$version/spark-$version-bin-hadoop3.tgz",
