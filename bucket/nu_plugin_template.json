@@ -11,7 +11,7 @@
     },
     "installer": {
         "script": [
-            "nu -c 'plugin add \"'$dir'\\nu_plugin_template.exe\"'"
+            "nu -c \"plugin add $dir\\nu_plugin_template.exe\""
         ]
     },
     "checkver": "github",
