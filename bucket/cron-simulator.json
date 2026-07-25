@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://artifacts-mvrpl.s3.sa-east-1.amazonaws.com/cron_simulator/1.0.0/cron_simulator-windows-x64.exe",
-            "hash": "f22edf832cf126f74927e462175d5b4ceeb7a710d844bdf49d65e3da25517c30"
+            "hash": "fcd6c898c591cca160d14f1a1aeee7a259c46564bf7642e021dab7d761e73041"
         }
     },
     "depends": "less",
