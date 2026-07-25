@@ -9,7 +9,6 @@
             "hash": "fcd6c898c591cca160d14f1a1aeee7a259c46564bf7642e021dab7d761e73041"
         }
     },
-    "depends": "less",
     "bin": [
         [
             "cron_simulator-windows-x64.exe",
