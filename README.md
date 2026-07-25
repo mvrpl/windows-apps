@@ -63,6 +63,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fvixcpp.json&query=%24.version&style=flat&label=vixcpp&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/vixcpp.json) `scoop install vixcpp`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fnu_plugin_template.json&query=%24.version&style=flat&label=nu_plugin_template&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/nu_plugin_template.json) `scoop install nu_plugin_template`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fnu_plugin_endecode.json&query=%24.version&style=flat&label=nu_plugin_endecode&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/nu_plugin_endecode.json) `scoop install nu_plugin_endecode`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fcron-simulator.json&query=%24.version&style=flat&label=cron-simulator&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/cron-simulator.json) `scoop install cron-simulator`
 
 ## GUI Applications
 
