@@ -1,12 +1,12 @@
 {
-    "version": "26.6.22",
+    "version": "26.7.23",
     "description": "The private note-taking platform.",
     "homepage": "https://lockbook.net",
     "license": "Unlicense",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lockbook/lockbook/releases/download/26.6.22/lockbook-windows-cli.zip",
-            "hash": "f3d09bdff5852438ab1050a7b971de1f3db654a0603bc003e3406b26109babad"
+            "url": "https://github.com/lockbook/lockbook/releases/download/26.7.23/lockbook-windows-cli.zip",
+            "hash": "2248e4ead3a0ca3e8cdb7c804d5ce8abc7c8e41b8d10e5c0ed4662d13a22a191"
         }
     },
     "bin": "lockbook.exe",
