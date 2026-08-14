@@ -1,12 +1,12 @@
 {
-    "version": "1.76.1",
+    "version": "1.77.2",
     "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.",
     "homepage": "https://github.com/MystenLabs/sui",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/MystenLabs/sui/releases/download/mainnet-v1.76.1/sui-mainnet-v1.76.1-windows-x86_64.tgz",
-            "hash": "498c0aaffb93e28364c244fe707fc5c3e82b865937960c58ffe285086198774e"
+            "url": "https://github.com/MystenLabs/sui/releases/download/mainnet-v1.77.2/sui-mainnet-v1.77.2-windows-x86_64.tgz",
+            "hash": "74a44368408cb3e620cebefa7c96df68bfa6b14b736ac55ea93cf19be1f5dcf0"
         }
     },
     "env_add_path": ".",
