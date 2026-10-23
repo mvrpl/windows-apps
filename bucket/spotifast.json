@@ -6,7 +6,8 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/crmne/spotifast/releases/download/v0.14.1/spotifast-v0.14.1-x86_64-pc-windows-msvc.zip",
-            "hash": "7d973b646cdf190881166aa0f1dc57f970b2a89ba45e316f2c011ea594c153aa"
+            "hash": "7d973b646cdf190881166aa0f1dc57f970b2a89ba45e316f2c011ea594c153aa",
+            "extract_dir": "spotifast-v0.14.1-x86_64-pc-windows-msvc"
         }
     },
     "bin": "spotifast.exe",
@@ -20,7 +21,8 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/crmne/spotifast/releases/download/v$version/spotifast-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://github.com/crmne/spotifast/releases/download/v$version/spotifast-v$version-x86_64-pc-windows-msvc.zip",
+                "extract_dir": "spotifast-v$version-x86_64-pc-windows-msvc"
             }
         }
     }
