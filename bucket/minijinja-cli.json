@@ -1,12 +1,12 @@
 {
-    "version": "3.0.4",
+    "version": "3.0.5",
     "description": "MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2.",
     "homepage": "https://docs.rs/minijinja/latest/minijinja",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mitsuhiko/minijinja/releases/download/3.0.4/minijinja-cli-x86_64-pc-windows-msvc.zip",
-            "hash": "9171ae4dc6e8578fea8749df968cded903dfb7c5809b61da5693c11216fb8f22"
+            "url": "https://github.com/mitsuhiko/minijinja/releases/download/3.0.5/minijinja-cli-x86_64-pc-windows-msvc.zip",
+            "hash": "df61e0e2a33f92553be1ab79b53fb894b0a3fbae3e9f5f12a0e21ce17b46fdc8"
         }
     },
     "bin": [
