@@ -1,16 +1,16 @@
 {
-    "version": "0.5.2",
+    "version": "0.6.1",
     "description": "Releases of Atlan CLI.",
     "homepage": "https://github.com/atlanhq/atlan-cli-releases",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/atlanhq/atlan-cli-releases/releases/download/v0.5.2/atlan_Windows_amd64.zip",
-            "hash": "b1468e04c03237b8ff35722d72021d51d57f7040516051180aafcbdc0891706f"
+            "url": "https://github.com/atlanhq/atlan-cli-releases/releases/download/v0.6.1/atlan_Windows_amd64.zip",
+            "hash": "e98a5e63225a3fe85cf6d860dded8df3351e194a6bd51215542373f1d0980d3c"
         },
         "arm64": {
-            "url": "https://github.com/atlanhq/atlan-cli-releases/releases/download/v0.5.2/atlan_Windows_arm64.zip",
-            "hash": "a2f58516ddec051007fc82282a290429153f8f8f43e02afe51b2cc4efe65caed"
+            "url": "https://github.com/atlanhq/atlan-cli-releases/releases/download/v0.6.1/atlan_Windows_arm64.zip",
+            "hash": "473c43f1bceebf675429af667f4f8baa92b342848a0727905aa00f8fcb78b5ee"
         }
     },
     "bin": "atlan.exe",
