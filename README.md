@@ -66,6 +66,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fcron-simulator.json&query=%24.version&style=flat&label=cron-simulator&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/cron-simulator.json) `scoop install cron-simulator`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fopen-code-review.json&query=%24.version&style=flat&label=open-code-review&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/open-code-review.json) `scoop install open-code-review`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fspotifast.json&query=%24.version&style=flat&label=spotifast&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/spotifast.json) `scoop install spotifast`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fcouchbase-shell.json&query=%24.version&style=flat&label=couchbase-shell&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/couchbase-shell.json) `scoop install couchbase-shell`
 
 ## GUI Applications
 
