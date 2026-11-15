@@ -1,7 +1,7 @@
 {
     "version": "1.13.6",
     "description": "Open Code Review brings Alibaba's battle-tested code review Agent into your workflow.",
-    "homepage": "https://open-codereview.ai/",
+    "homepage": "https://open-codereview.ai",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
