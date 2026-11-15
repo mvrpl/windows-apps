@@ -13,7 +13,7 @@
             "hash": "22fd7b7caf7fed2df58ec20acdbe41823e9456736416b9446cb52247ff906217"
         }
     },
-    "bin": "redli",
+    "bin": "redli.exe",
     "checkver": "github",
     "autoupdate": {
         "architecture": {
