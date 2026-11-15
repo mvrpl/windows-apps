@@ -1,0 +1,30 @@
+{
+    "version": "0.10.49",
+    "description": "Cloud cost intelligence for engineers, AI coding agents, and CI/CD. Shift FinOps Left",
+    "homepage": "https://www.infracost.io",
+    "license": "Apache-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/infracost/infracost/releases/download/v0.10.49/infracost-windows-amd64.zip",
+            "hash": "d81638d7a1af9177c949fbf924573a1120976cc330ed3df6056cb9d913e74a80"
+        },
+        "arm64": {
+            "url": "https://github.com/infracost/infracost/releases/download/v0.10.49/infracost-windows-arm64.zip",
+            "hash": "df207273286287ae2151986b8d5b080b1ab4635cda6ecad19e9da55833c2464b"
+        }
+    },
+    "bin": "infracost.exe",
+    "checkver": {
+        "github": "https://github.com/infracost/infracost"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/infracost/infracost/releases/download/v$version/infracost-windows-amd64.zip"
+            },
+            "arm64": {
+                "url": "https://github.com/infracost/infracost/releases/download/v$version/infracost-windows-arm64.zip"
+            }
+        }
+    }
+}

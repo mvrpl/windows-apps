@@ -69,6 +69,7 @@ scoop bucket add mvrpl https://github.com/mvrpl/windows-apps
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fcouchbase-shell.json&query=%24.version&style=flat&label=couchbase-shell&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/couchbase-shell.json) `scoop install couchbase-shell`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fqcloud.json&query=%24.version&style=flat&label=qcloud&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/qcloud.json) `scoop install qcloud`
 - [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Fredli.json&query=%24.version&style=flat&label=redli&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/redli.json) `scoop install redli`
+- [![Scoop Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmvrpl%2Fwindows-apps%2Frefs%2Fheads%2Fmain%2Fbucket%2Finfracost.json&query=%24.version&style=flat&label=infracost&color=%23012456)](https://github.com/mvrpl/windows-apps/blob/main/bucket/infracost.json) `scoop install infracost`
 
 ## GUI Applications
 
